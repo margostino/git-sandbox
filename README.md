@@ -2,3 +2,5 @@
 - new market 1abc
 - super feature A
 - x
+- today
+- hashing
