@@ -5,3 +5,9 @@
 - today
 - hashing
 - rebasing
+
+
+
+TODO:
+- energy grid
+- mocks
